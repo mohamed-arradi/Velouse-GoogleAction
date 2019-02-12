@@ -28,3 +28,7 @@ Bien que la plupart des modifications soient probablement mineures, Vélib Toulo
 2019/02/11 - Première version des conditions d'utilisations.
 
 Un grand merci à [Automattic](https://automattic.com) pour fournir cette politique de confidentialité template sous licence [Creative Commmons](https://creativecommons.org/licenses/by-sa/4.0/).
+
+**Contact**
+
+For any requirement or questions about this policy, please contact hello@arradimohamed.fr
